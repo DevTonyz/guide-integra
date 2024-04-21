@@ -1,0 +1,59 @@
+html {
+    background-color: rgb(200, 235, 200);
+}
+body {
+    background-color: white;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    border: green solid 1px;
+    border-radius: 20px;
+    padding: 10px;
+}
+article {
+    text-align: center
+}
+.img-tuto {
+    width: 80%;
+    margin: 25px;
+    padding: 10px;
+    border: solid orange 3px;
+    border-radius: 10px;
+}
+h1, h6 {
+    text-align: center;
+}
+
+.titulo {
+    color: green;
+    font-weight: bolder;
+}
+
+.accordion-item {
+    margin: 10px;
+}
+
+.accordion-button {
+    background-color: orange;
+}
+.btn-success {
+    margin-top: 10px;
+    text-decoration: underline;
+}
+header, footer {
+    text-align: center;
+}
+footer {
+    margin-top: 30px;
+}
+.integra-logo {
+    width: 300px;
+}
+.ifrs-logo {
+    width: 200px;
+}
+.creditos {
+    margin-top: 10px;
+    font-size: smaller;
+}
